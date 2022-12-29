@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sparsh97
 - 👀 I’m interested in learning new framework , library and programming laguages.
-- 🌱 I’m currently learning Spring framework and Angular.
+- 🌱 I’m currently learning Spring Boot and Angular.
 
 
 
