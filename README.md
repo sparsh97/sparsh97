@@ -8,6 +8,6 @@ I love to code. I work as a backend developer. However, I am currently learning 
 
 *   🌍  I'm based in Varanasi, India
 *   ✉️  You can contact me at [sparshvermadmc@gmail.com](mailto:sparshvermadmc@gmail.com)
-*   🧠  I'm learning React, Spring Boot### Skills 
+*   🧠  I'm learning React, Spring Boot
 
                     
